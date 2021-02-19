@@ -74,5 +74,5 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - fix-windows-assembly-test
 
